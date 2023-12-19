@@ -29,6 +29,7 @@ https://makersuite.google.com/app/apikey
 1. Create a .env file in your project directory.
 2. Add your Gemini API credentials to the .env file.
 
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY="your_gemini_api_key"
 
-Ensure to replace your_gemini_api_key and your_gemini_api_secret with your actual Gemini API credentials.
+Ensure to replace your_gemini_api_key with your actual Gemini API credentials.
+your virtual environment should be set up, folders created, images uploaded, and the .env file configured with your Gemini API credentials.
